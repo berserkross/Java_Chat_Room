@@ -5,7 +5,7 @@ This project is submitted as part of **CSC-1004: Computational Laboratory Using 
 The Chinese University of Hong Kong, Shenzhen (CUHK-SZ).
 
 Course context: the assignment requires a Java chat room with multithreading,
-chat-room functions, chat-record storage, and proper message display. [3](@ref)
+chat-room functions, chat-record storage, and proper message display.
 
 ## Features
 
